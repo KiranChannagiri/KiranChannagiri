@@ -10,7 +10,7 @@ I am a passionate **Web Developer** specializing in **frontend development** wit
 
 ## 🛠 Skills
 - **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap  
-- **Backend**: MongoDB, Express.js, Node.js (MERN Stack Beginner)  
+- **Backend**: Java 
 - **Programming**: Java, C++  
 
 ---
