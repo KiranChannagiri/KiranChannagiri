@@ -4,7 +4,7 @@
 # Hi, I'm Kiran 👋  
 
 I am a passionate **Web Developer** specializing in **frontend development** with a strong focus on building mobile interfaces.  
-Currently, I am in my final year of **Information Science and Engineering** at **Sri Venkateshwara College of Engineering**, graduating in 2025.
+**Information Science and Engineering** at **Sri Venkateshwara College of Engineering**, graduated in 2025.
 
 ---
 
